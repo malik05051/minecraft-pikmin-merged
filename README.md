@@ -1,3 +1,5 @@
+# This repository is archived.
+
 # PikCraft
 
 **English** | [Français](README.fr.md)
